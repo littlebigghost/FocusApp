@@ -20,4 +20,4 @@ docker run -d --name focus -p 80:80 -v ~/books:/books cwghost/focus:latest
 * 用户名: `admin`
 * 密码: `123456`
 
-想了解更多，请查看 [MySQLdb1](https://github.com/farcepest/MySQLdb1).
+想了解更多，请查看 [同步进度的多端Pdf 阅读利器 - CSDN](https://blog.csdn.net/m0_37623485/article/details/144269956?spm=1001.2014.3001.5501)
